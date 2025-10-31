@@ -171,7 +171,7 @@ add_task(async function test_name_too_long() {
   );
   Assert.deepEqual(
     extension.extension.warnings,
-    ['Reading manifest: Warning processing "name": must be shorter than 75'],
+    ['Reading manifest: Warning processing "name": must be shorter than 45'],
     "Expected error message when the name is too long"
   );
 
