@@ -3464,7 +3464,7 @@
   <!-- The error message in add login view when hostname field is blank. -->
   <string name="saved_login_hostname_required_2" tools:ignore="UnusedResources">Enter a web address</string>
   <!-- Voice search button content description -->
-  <string name="voice_search_content_description">Voice search</string>
+  <string name="voice_search_content_description">Block voice search</string>
   <!-- Voice search prompt description displayed after the user presses the voice search button -->
   <string name="voice_search_explainer">Speak now</string>
   <!-- The error message in edit login view when a duplicate username exists. -->
