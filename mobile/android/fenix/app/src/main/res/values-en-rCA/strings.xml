@@ -398,7 +398,7 @@
   <!-- Link text to navigate to more page summary settings -->
   <string name="ai_controls_more_page_summary_settings">More page summary settings</string>
   <!-- Title for the voice search AI feature toggle -->
-  <string name="ai_controls_voice_search_title">Voice search</string>
+  <string name="ai_controls_voice_search_title">Block voice search</string>
   <!-- Description for the voice search AI feature toggle -->
   <string name="ai_controls_voice_search_description">Audio is converted to text by Google Speech Services.</string>
   <!-- Title for the block AI enhancements confirmation dialog -->
@@ -3751,7 +3751,7 @@
   <!-- Button text for the button that will take the user to the download languages dialog. On the download languages dialog, the user can manage which languages they would like to download for translations. -->
   <string name="translation_settings_download_language">Download languages</string>
   <!-- Toggle switch title and description for the translation settings control. -->
-  <string name="translation_settings_control_title">Translations</string>
+  <string name="translation_settings_control_title">Block translations</string>
   <!-- Description for the translation settings toggle switch. -->
   <string name="translation_settings_control_description">All translations stay private on your device.</string>
   <!-- Clickable text for the translations settings item that links to a website. -->
